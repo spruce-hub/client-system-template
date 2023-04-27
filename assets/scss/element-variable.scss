@@ -1,0 +1,42 @@
+@forward 'element-plus/theme-chalk/src/common/var.scss' with (
+  $text-color: (
+    'regular': var(--ys-text-dark),
+    'primary': var(--ys-text-dark),
+  ),
+  $colors: (
+    'primary': (
+      base: #008755,
+    ),
+  ),
+  $border-color: (
+    '': var(--ys-line),
+  ),
+  $font-family: (
+    '': var(--ys-font-family),
+  ),
+  $common-component-size: (
+    'large': 44px,
+    'default': 40px,
+  ),
+  $input: (
+    'border-radius': 0,
+    'bg-color': transparent,
+  ),
+  $button-border-radius: (
+    'large': 99px,
+    'default': 99px,
+  ),
+  $table: (
+    'border': 1px solid #eeeeee,
+  ),
+  $pagination: (
+    'button-bg-color': transparent,
+    'border-radius': 4px,
+  ),
+  $carousel: (
+    'indicator-width': 4rem,
+    'indicator-height': 2px,
+    'indicator-padding-horizontal': 5px,
+    'indicator-padding-vertical': 45px,
+  )
+);
