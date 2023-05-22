@@ -13,13 +13,12 @@
     "*.{ts,vue}": "eslint --fix"
   },
   "dependencies": {
-    "@element-plus/icons-vue": "^2.1.0",
-    "@element-plus/nuxt": "^1.0.4",
+    "@element-plus/nuxt": "^1.0.5",
     "@spruce-hub/eui": "1.0.0-alpha.2",
     "@spruce-hub/icons": "1.0.0-alpha.1",
     "@spruce-hub/nuxt-fetch": "^1.1.0",
     "@spruce-hub/nuxt-route": "^1.0.1",
-    "element-plus": "^2.3.4",
+    "element-plus": "^2.3.5",
     "js-cookie": "^3.0.5",
     "lodash-es": "^4.17.21",
     "nuxt": "^3.4.3",

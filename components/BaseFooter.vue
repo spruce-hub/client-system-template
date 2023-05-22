@@ -1,9 +1,5 @@
 <template>
-  <div id="__layout">
-    <BaseHeader />
-    <slot></slot>
-    <BaseFooter />
-  </div>
+  <div>底部</div>
 </template>
 <script lang="ts" setup></script>
 <style lang="scss" scoped></style>

@@ -3,14 +3,14 @@ import { defineNuxtConfig } from 'nuxt/config'
 export default defineNuxtConfig({
   app: {
     head: {
-      title: '雷士照明',
+      title: '项目名称',
       htmlAttrs: {
         lang: 'zh-cn',
       },
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
       meta: [
-        { hid: 'description', name: 'description', content: '雷士照明' },
+        { hid: 'description', name: 'description', content: '项目名称' },
         { name: 'format-detection', content: 'telephone=no' },
       ],
       script: [],
